@@ -22,7 +22,7 @@
     "title" : "Gfx Tool"
   }, {
     "depend_pkg" : "com.miniclip.carrom",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom.72yj9ihv2lw0.webp",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
     "order_id" : 1,
     "redirect_url" : "https://aimcarrompro.web.app",
     "showenv" : 0,
