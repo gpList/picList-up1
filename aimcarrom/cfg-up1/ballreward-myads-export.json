@@ -2,14 +2,14 @@
   "ADS" : [ {
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/pro-official-web.4csgqpnb7s00.webp",
-    "order_id" : 2,
+    "order_id" : 5,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "AssistPro Official website(1.7.6 support iPad Mode)"
   }, {
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimline.5wlfc9oss1c0.webp",
-    "order_id" : 2,
+    "order_id" : 4,
     "redirect_url" : "com.lj.aimlinepro",
     "showenv" : 0,
     "title" : "Aimline Pro"
@@ -21,6 +21,20 @@
     "showenv" : 0,
     "title" : "Gfx Tool"
   }, {
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/mcloner-onlymulti.webp",
+    "order_id" : 2,
+    "redirect_url" : "com.bestwish.mcloner",
+    "showenv" : 0,
+    "title" : "Multi Cloner"
+  }, {
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://www.dropbox.com/s/hpqiwe3pml4nqh4/aimpool_xc.webp?dl=1",
+    "order_id" : 2,
+    "redirect_url" : "com.team.aimpool",
+    "showenv" : 0,
+    "title" : "Aim Pool(AI)"
+  },{
     "depend_pkg" : "com.miniclip.carrom",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
     "order_id" : 1,
