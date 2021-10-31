@@ -41,5 +41,12 @@
     "redirect_url" : "https://aimcarrompro.web.app",
     "showenv" : 0,
     "title" : "The Best Aim For Carrom Pool"
+  },{
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/feature-2021-10-30.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://youtu.be/wDxkPTWlvR8",
+    "showenv" : 0,
+    "title" : "Aim Carrom New Features"
   } ]
 }
