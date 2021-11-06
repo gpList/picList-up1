@@ -48,5 +48,12 @@
     "redirect_url" : "https://youtu.be/wDxkPTWlvR8",
     "showenv" : 0,
     "title" : "Aim Carrom New Features"
+  },{
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/sknasir/sknasir-211106.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://youtu.be/wDxkPTWlvR8",
+    "showenv" : 0,
+    "title" : "How to buy Aim Carrom?"
   } ]
 }
