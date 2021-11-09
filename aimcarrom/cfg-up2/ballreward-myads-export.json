@@ -55,5 +55,12 @@
     "redirect_url" : "https://youtu.be/dqqeyUhaErY",
     "showenv" : 0,
     "title" : ""
+  },{
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/tipenter/tipenter-20211109.webp",
+    "order_id" : 0,
+    "redirect_url" : "https://youtu.be/OPgIw_cmY-U",
+    "showenv" : 0,
+    "title" : ""
   }]
 }
