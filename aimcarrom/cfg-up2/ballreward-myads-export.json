@@ -41,5 +41,19 @@
     "redirect_url" : "https://aimcarrompro.web.app",
     "showenv" : 0,
     "title" : "The Best Aim For Carrom Pool"
+  },{
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/googlelogin.webp",
+    "order_id" : 2,
+    "redirect_url" : "https://youtu.be/NskJCsBkvcM",
+    "showenv" : 0,
+    "title" : ""
+  },{
+    "depend_pkg" : "com.miniclip.carrom",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/tipenter/tipenter-20211115.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://youtu.be/LI5WqCXmX6k",
+    "showenv" : 0,
+    "title" : ""
   }]
 }
