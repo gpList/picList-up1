@@ -20,14 +20,7 @@
     "redirect_url" : "com.pub.gfxtool",
     "showenv" : 0,
     "title" : "Gfx Tool"
-  }, {
-    "depend_pkg" : "com.miniclip.carrom",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/mcloner-onlymulti.webp",
-    "order_id" : 5,
-    "redirect_url" : "com.bestwish.mcloner",
-    "showenv" : 0,
-    "title" : "Multi Cloner"
-  }, {
+  },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://www.dropbox.com/s/hpqiwe3pml4nqh4/aimpool_xc.webp?dl=1",
     "order_id" : 4,
@@ -46,13 +39,6 @@
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/googlelogin.webp",
     "order_id" : 2,
     "redirect_url" : "https://youtu.be/NskJCsBkvcM",
-    "showenv" : 0,
-    "title" : ""
-  },{
-    "depend_pkg" : "com.miniclip.carrom",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/sknasir/sknasir-211117.webp",
-    "order_id" : 1,
-    "redirect_url" : "https://youtu.be/w-bZsPk-qXo",
     "showenv" : 0,
     "title" : ""
   }]
