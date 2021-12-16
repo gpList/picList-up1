@@ -1,11 +1,11 @@
 {
   "ADS" : [ {
     "depend_pkg" : "com.miniclip.eightballpool",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/pro-official-web.4csgqpnb7s00.webp",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/pro-official-web-new.webp",
     "order_id" : 8,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistPro Official website(1.7.6 support iPad Mode)"
+    "title" : "AssistPro Official website(1.8.9 support iPad Mode)"
   }, {
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimline.5wlfc9oss1c0.webp",
