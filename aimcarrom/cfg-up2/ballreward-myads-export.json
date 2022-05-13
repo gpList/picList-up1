@@ -1,12 +1,5 @@
 {
   "ADS" : [{
-    "depend_pkg" : "com.tencent.ig/com.pubg.imobile/com.tencent.tmgp.pubgmhd/com.pubg.krmobile/com.vng.pubgmobile/com.rekoo.pubgm/com.tencent.iglite/com.tencent.igce/com.dts.freefireth",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/gfxtool.1efsgro6w4zk.webp",
-    "order_id" : 3,
-    "redirect_url" : "com.pub.gfxtool",
-    "showenv" : 0,
-    "title" : "Gfx Tool"
-  }, {
     "depend_pkg" : "com.miniclip.carrom",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
     "order_id" : 4,
