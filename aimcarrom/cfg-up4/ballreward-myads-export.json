@@ -10,14 +10,14 @@
 	"depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-hiderecord-220224.webp",
     "order_id" : 2,
-    "redirect_url" : "https://www.mediafire.com/file/m10skd31ckrvr8q/super-stable-2.0.2.apk/file",
+    "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "AssistSuper(2.0.2(stable) support HideRecord)"
   },{
 	"depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-indirectshot-220224.webp",
     "order_id" : 3,
-    "redirect_url" : "https://www.mediafire.com/file/rdq5rn4xa99otjx/super-gp-2.0.2.apk/file",
+    "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "AssistSuper(2.0.2(glogin) support IndirectShot)"
   },{
