@@ -12,14 +12,14 @@
     "order_id" : 2,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistSuper(2.0.2(stable) support HideRecord)"
+    "title" : "AssistSuper(2.0.2 support HideRecord)"
   },{
 	"depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-indirectshot-220224.webp",
     "order_id" : 3,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistSuper(2.0.2(glogin) support IndirectShot)"
+    "title" : "AssistSuper(2.0.2 support IndirectShot)"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
@@ -34,12 +34,5 @@
     "redirect_url" : "com.pub.gfxtool",
     "showenv" : 0,
     "title" : "Gfx Tool"
-  }, {
-    "depend_pkg" : "com.miniclip.carrom",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
-    "order_id" : 6,
-    "redirect_url" : "https://aimcarrompro.web.app",
-    "showenv" : 0,
-    "title" : "The Best Aim For Carrom Pool"
   } ]
 }
