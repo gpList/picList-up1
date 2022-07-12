@@ -1,25 +1,32 @@
 {
   "ADS" : [ {
     "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AimKing for android phone and table"
+  },{
+    "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/pro-official-web-2022-02-12.webp",
     "order_id" : 1,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistPro Official website(1.9.8 support iPad Mode)"
+    "title" : "AssistPro Official website(2.0.3 support iPad Mode)"
   },{
 	"depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-hiderecord-220224.webp",
     "order_id" : 2,
-    "redirect_url" : "https://www.mediafire.com/file/u6nxsyivn3jhu3w/super-hide-1.9.9-bus.apk/file",
+    "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistSuper(1.9.9(stable) support HideRecord)"
+    "title" : "AssistSuper(2.0.3 support HideRecord)"
   },{
 	"depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-indirectshot-220224.webp",
     "order_id" : 3,
-    "redirect_url" : "https://www.mediafire.com/file/6mbkobawpqegznd/super-hide-1.9.9-aj.apk/file",
+    "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistSuper(1.9.9(glogin) support IndirectShot)"
+    "title" : "AssistSuper(2.0.3 support IndirectShot)"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
@@ -34,12 +41,5 @@
     "redirect_url" : "com.pub.gfxtool",
     "showenv" : 0,
     "title" : "Gfx Tool"
-  }, {
-    "depend_pkg" : "com.miniclip.carrom",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
-    "order_id" : 6,
-    "redirect_url" : "https://aimcarrompro.web.app",
-    "showenv" : 0,
-    "title" : "The Best Aim For Carrom Pool"
   } ]
 }
