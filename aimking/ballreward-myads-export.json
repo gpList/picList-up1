@@ -1,0 +1,38 @@
+{
+  "ADS" : [ {
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/pro-official-web-2022-02-12.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AssistPro Official website(2.0.3 support iPad Mode)"
+  },{
+	"depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-hiderecord-220224.webp",
+    "order_id" : 2,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AssistSuper(2.0.3 support HideRecord)"
+  },{
+	"depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-indirectshot-220224.webp",
+    "order_id" : 3,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AssistSuper(2.0.3 support IndirectShot)"
+  },{
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
+    "order_id" : 4,
+    "redirect_url" : "https://www.mediafire.com/file/7wu2o1u4t4kf58p/hide-aimpool-1.0.4-aj.apk/file",
+    "showenv" : 0,
+    "title" : "AimPool(Hide)(Only support AI Mode)"
+  },{
+    "depend_pkg" : "com.tencent.ig/com.pubg.imobile/com.tencent.tmgp.pubgmhd/com.pubg.krmobile/com.vng.pubgmobile/com.rekoo.pubgm/com.tencent.iglite/com.tencent.igce/com.dts.freefireth",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/gfxtool.1efsgro6w4zk.webp",
+    "order_id" : 5,
+    "redirect_url" : "com.pub.gfxtool",
+    "showenv" : 0,
+    "title" : "Gfx Tool"
+  } ]
+}
