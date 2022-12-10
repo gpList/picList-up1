@@ -7,12 +7,19 @@
     "showenv" : 0,
     "title" : "CarromKing Official website(2.3.5)"
   },{
-	"depend_pkg" : "com.miniclip.eightballpool",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistsuper/aimsuper-indirectshot-220224.webp",
-    "order_id" : 3,
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp",
+    "order_id" : 1,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "AssistSuper(2.0.6 support IndirectShot And HideRecord)"
+    "title" : "AimKing for android phone and table"
+  },{
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimsafe/aimsafe-20221210.webp",
+    "order_id" : 1,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AimSafe support IndirectShot and HideRecord"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
