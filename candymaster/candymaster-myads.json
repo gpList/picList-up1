@@ -1,17 +1,17 @@
 {
   "ADS" : [ {
+    "depend_pkg" : "com.miniclip.eightballpool",
+    "img_url" : "https://youtu.be/t-Iqt3CJ8nk",
+    "order_id" : 1,
+    "redirect_url" : "https://aimassist-pro.web.app",
+    "showenv" : 0,
+    "title" : "AimKing-AutoPlay Global Mode(Real Gesture)"
+  },{
     "depend_pkg" : "com.miniclip.carrom",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/carromking/carromking-2022-12-03.webp",
-    "order_id" : 1,
+    "order_id" : 2,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "CarromKing Official website(2.3.5)"
-  },{
-    "depend_pkg" : "com.miniclip.eightballpool",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp",
-    "order_id" : 1,
-    "redirect_url" : "https://aimassist-pro.web.app",
-    "showenv" : 0,
-    "title" : "AimKing for android phone and table"
   }]
 }
