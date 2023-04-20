@@ -5,18 +5,18 @@
     "order_id" : 1,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
-    "title" : "CarromKing Official website(2.3.5)"
+    "title" : "CarromKing Official website(2.4.6)"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp",
-    "order_id" : 1,
+    "order_id" : 2,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "AimKing for android phone and table"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimsafe/aimsafe-20221210.webp",
-    "order_id" : 1,
+    "order_id" : 3,
     "redirect_url" : "https://aimassist-pro.web.app",
     "showenv" : 0,
     "title" : "AimSafe support IndirectShot and HideRecord"
@@ -24,13 +24,20 @@
     "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
     "order_id" : 4,
-    "redirect_url" : "https://www.mediafire.com/file/7wu2o1u4t4kf58p/hide-aimpool-1.0.4-aj.apk/file",
+    "redirect_url" : "https://www.mediafire.com/file/oyh5uvkwtmurhhg/hide-aimpool-1.0.6.apk/file",
     "showenv" : 0,
     "title" : "AimPool(Hide)(Only support AI Mode)"
   },{
+    "depend_pkg" : "com.king.candycrushsaga",
+    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/candymaster/candymaster-20230421.webp",
+    "order_id" : 5,
+    "redirect_url" : "https://t.me/CandyMasterOfficial",
+    "showenv" : 0,
+    "title" : "CandyMaster"
+  },{
     "depend_pkg" : "com.tencent.ig/com.pubg.imobile/com.tencent.tmgp.pubgmhd/com.pubg.krmobile/com.vng.pubgmobile/com.rekoo.pubgm/com.tencent.iglite/com.tencent.igce/com.dts.freefireth",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/gfxtool.1efsgro6w4zk.webp",
-    "order_id" : 5,
+    "order_id" : 6,
     "redirect_url" : "com.pub.gfxtool",
     "showenv" : 0,
     "title" : "Gfx Tool"
