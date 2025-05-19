@@ -48,6 +48,18 @@
 			"pl": "https://www.dropbox.com/scl/fi/wzxm8lmyjdy5njhn15ykp/plugin.json?rlkey=3fc4c0xtdd4p4wgfljokl64jf&dl=1",
 			"vn": true,
 			"vr": 0
+		},
+		{
+			"al": "",
+			"ae": 0,
+			"dl": "",
+			"id": "4",
+			"ne": "Hill Climb Racing",
+			"oe": "",
+			"pe": "com.fingersoft.hillclimb",
+			"pl": "https://www.dropbox.com/scl/fi/kkhtxe9wafun61ikx650d/plugin.json?rlkey=orsnyttyp3ftyw12xtvqfv233&dl=1",
+			"vn": true,
+			"vr": 0
 		}
 	]
 }
