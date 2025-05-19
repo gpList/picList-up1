@@ -28,7 +28,20 @@
 			"al": "",
 			"ae": 0,
 			"dl": "",
-			"id": "1",
+			"id": "2",
+			"ne": "Subway Surfers",
+			"oe": "",
+			"pe": "com.kiloo.subwaysurf",
+			"pl": "https://www.dropbox.com/scl/fi/k6abahqra7di8yujic1cr/plugin.json?rlkey=bv2uppignghevjt3ig9a0trwd&dl=1",
+			"vn": true,
+			"il": true,
+			"vr": 0
+		},
+		{
+			"al": "",
+			"ae": 0,
+			"dl": "",
+			"id": "2",
 			"ne": "Liên Quân",
 			"oe": "",
 			"pe": "com.garena.game.kgvn",
@@ -59,19 +72,6 @@
 			"pe": "com.wildspike.wormszone",
 			"pl": "https://www.dropbox.com/scl/fi/wzxm8lmyjdy5njhn15ykp/plugin.json?rlkey=3fc4c0xtdd4p4wgfljokl64jf&dl=1",
 			"vn": true,
-			"vr": 0
-		},
-		{
-			"al": "",
-			"ae": 0,
-			"dl": "",
-			"id": "5",
-			"ne": "Subway Surfers",
-			"oe": "",
-			"pe": "com.kiloo.subwaysurf",
-			"pl": "https://www.dropbox.com/scl/fi/k6abahqra7di8yujic1cr/plugin.json?rlkey=bv2uppignghevjt3ig9a0trwd&dl=1",
-			"vn": true,
-			"il": true,
 			"vr": 0
 		},
 		{
