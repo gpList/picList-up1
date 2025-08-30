@@ -15,13 +15,6 @@
     "title" : "AimKing for android phone and table"
   },{
     "depend_pkg" : "com.miniclip.eightballpool",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimsafe/aimsafe-20221210.webp",
-    "order_id" : 3,
-    "redirect_url" : "https://aimassist-pro.web.app",
-    "showenv" : 0,
-    "title" : "AimSafe support IndirectShot and HideRecord"
-  },{
-    "depend_pkg" : "com.miniclip.eightballpool",
     "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
     "order_id" : 4,
     "redirect_url" : "https://www.mediafire.com/file/oyh5uvkwtmurhhg/hide-aimpool-1.0.6.apk/file",
