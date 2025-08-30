@@ -27,19 +27,5 @@
     "redirect_url" : "https://www.mediafire.com/file/oyh5uvkwtmurhhg/hide-aimpool-1.0.6.apk/file",
     "showenv" : 0,
     "title" : "AimPool(Hide)(Only support AI Mode)"
-  },{
-    "depend_pkg" : "com.king.candycrushsaga",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/candymaster/candymaster-20230421.webp",
-    "order_id" : 5,
-    "redirect_url" : "https://t.me/CandyMasterOfficial",
-    "showenv" : 0,
-    "title" : "CandyMaster"
-  },{
-    "depend_pkg" : "com.tencent.ig/com.pubg.imobile/com.tencent.tmgp.pubgmhd/com.pubg.krmobile/com.vng.pubgmobile/com.rekoo.pubgm/com.tencent.iglite/com.tencent.igce/com.dts.freefireth",
-    "img_url" : "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/gfxtool.1efsgro6w4zk.webp",
-    "order_id" : 6,
-    "redirect_url" : "https://apkpure.com/gfx-tool-for-pubg-freefire/com.pub.gfxtool/download",
-    "showenv" : 0,
-    "title" : "Gfx Tool"
   } ]
 }
