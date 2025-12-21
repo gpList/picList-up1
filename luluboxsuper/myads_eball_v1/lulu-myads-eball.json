@@ -1,1 +1,44 @@
-{"ADS":[{"depend_pkg":"com.miniclip.carrom","img_url":"https://raw.githubusercontent.com/gpList/picList-up1/master/carromking/carromking-2022-12-03.webp","order_id":1,"redirect_url":"https://t.me/aimcarromchannel","showenv":0,"title":"CarromKing for android phone and table"},{"depend_pkg":"com.miniclip.eightballpool","img_url":"https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp","order_id":2,"redirect_url":"https://t.me/aimassistpros","showenv":0,"title":"AimKing for android phone and table"},{"depend_pkg":"com.miniclip.eightballpool","img_url":"https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp","order_id":4,"redirect_url":"https://www.mediafire.com/file/oyh5uvkwtmurhhg/hide-aimpool-1.0.6.apk/file","showenv":0,"title":"AimPool(Hide)(Only support AI Mode)"},{"depend_pkg":"com.miniclip.carrom","img_url":"https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp","order_id":7,"redirect_url":"https://t.me/aimcarromchannel","showenv":0,"title":"The Best Aim For Carrom Pool"}]}
+{
+	"ADS": [
+		{
+			"depend_pkg": "com.miniclip.carrom",
+			"img_url": "https://raw.githubusercontent.com/gpList/picList-up1/master/carromking/carromking-2022-12-03.webp",
+			"order_id": 1,
+			"redirect_url": "https://t.me/aimcarromchannel",
+			"showenv": 0,
+			"title": "CarromKing Official Telegram"
+		},
+		{
+			"depend_pkg": "com.miniclip.eightballpool",
+			"img_url": "https://raw.githubusercontent.com/gpList/picList-up1/master/aimking/aimking-20220616.webp",
+			"order_id": 2,
+			"redirect_url": "https://t.me/aimassistpros",
+			"showenv": 0,
+			"title": "AimKing Official Telegram"
+		},
+		{
+			"depend_pkg": "com.miniclip.eightballpool",
+			"img_url": "https://raw.githubusercontent.com/gpList/picList-up1/master/aimassistpro/aimpool-2022-02-12.webp",
+			"order_id": 4,
+			"redirect_url": "https://www.mediafire.com/file/oyh5uvkwtmurhhg/hide-aimpool-1.0.6.apk/file",
+			"showenv": 0,
+			"title": "AimPool(Hide)(Only support AI Mode)"
+		},
+		{
+			"depend_pkg": "com.miniclip.carrom",
+			"img_url": "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/aimcarrom_up1.webp",
+			"order_id": 7,
+			"redirect_url": "https://t.me/aimcarromchannel",
+			"showenv": 0,
+			"title": "The Best Aim For Carrom Pool"
+		},
+		{
+			"depend_pkg": "com.miniclip.soccerstars",
+			"img_url": "https://raw.githubusercontent.com/gpList/picList-up1/master/aimcarrom/soccerking-250908.webp",
+			"order_id": 0,
+			"redirect_url": "https://t.me/aimsoccerstars",
+			"showenv": 0,
+			"title": "The Best Aim For SoccerStars"
+		}
+	]
+}

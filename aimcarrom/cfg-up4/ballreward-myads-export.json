@@ -6,7 +6,7 @@
 			"order_id": 1,
 			"redirect_url": "https://t.me/aimcarromchannel",
 			"showenv": 0,
-			"title": "CarromKing Official website(3.0.0)"
+			"title": "CarromKing Official Telegram"
 		},
 		{
 			"depend_pkg": "com.miniclip.eightballpool",
@@ -14,7 +14,7 @@
 			"order_id": 2,
 			"redirect_url": "https://t.me/aimassistpros",
 			"showenv": 0,
-			"title": "AimKing for android phone and table"
+			"title": "AimKing Official Telegram"
 		},
 		{
 			"depend_pkg": "com.miniclip.eightballpool",
