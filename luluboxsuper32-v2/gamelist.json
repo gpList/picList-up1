@@ -1,4 +1,14 @@
 {
+    "global": [
+        {
+            "id": "googleplay",
+            "ne": "Google Play",
+            "pe": "com.android.vending",
+            "al": "",
+            "vn": true,
+            "pl2": "https://www.dropbox.com/scl/fi/tnv90mqypizr0nmpuk8z8/plugin.json?rlkey=w98ulweymw2lad2zsd7h8gj35&dl=1"
+        }
+    ],
     "gds": [
         {
             "al": "",
