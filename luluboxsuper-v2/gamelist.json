@@ -28,11 +28,23 @@
             "ae": 0,
             "st": 1,
             "dl": "",
-            "id": "3",
+            "id": "2",
             "ne": "8 Ball Pool",
             "oe": "",
             "pe": "com.miniclip.eightballpool",
             "pl": "https://www.dropbox.com/scl/fi/8x41rjlik1yrllfmnnxo7/plugin.json?rlkey=cpp5ug3vvnjmftgnixpinvn81&dl=1",
+            "vn": true,
+            "vr": 0
+        },
+		        {
+            "al": "",
+            "ae": 0,
+            "dl": "",
+            "id": "3",
+            "ne": "Candy Crush Soda",
+            "oe": "",
+            "pe": "com.king.candycrushsodasaga",
+            "pl": "https://www.dropbox.com/scl/fi/0b5kelbiyhl19o757iqu1/plugin.json?rlkey=7uwc3fg7ltcsiqy7jeab3ktw5&dl=1",
             "vn": true,
             "vr": 0
         },
@@ -181,18 +193,6 @@
             "oe": "",
             "pe": "com.billiards.city.pool.nation.club",
             "pl": "https://www.dropbox.com/scl/fi/7vdfbrdqzadqbgkg6sob5/plugin.json?rlkey=tl2atalduurqqmzfssw96nbw6&dl=1",
-            "vn": true,
-            "vr": 0
-        },
-        {
-            "al": "",
-            "ae": 0,
-            "dl": "",
-            "id": "16",
-            "ne": "Candy Crush Soda",
-            "oe": "",
-            "pe": "com.king.candycrushsodasaga",
-            "pl": "https://www.dropbox.com/scl/fi/0b5kelbiyhl19o757iqu1/plugin.json?rlkey=7uwc3fg7ltcsiqy7jeab3ktw5&dl=1",
             "vn": true,
             "vr": 0
         },
